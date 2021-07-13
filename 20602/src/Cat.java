@@ -12,6 +12,7 @@ public class Cat {
 	String name;
 	int age;
 	static int count;
+	int number;
 	
 	void print() {
 		System.out.println(name + ":" + age);
